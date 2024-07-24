@@ -14,22 +14,342 @@ The ones WITH "Notes" may have to be processed manually.
 
 PROPOSED:
 Date      Old       New         Notes
+proposed  nfiundg   nfiund
+proposed  bnj1441g  bnj1441
+proposed  cbviinvg  cbviinv
+proposed  cbviunvg  cbviunv
+proposed  cbviing   cbviin
+proposed  cbviung   cbviun
+proposed  nfiing    nfiin
+proposed  nfiung    nfiun
+proposed  nfrexg    nfrex
+proposed  nfrexdg   nfrexd
+proposed  nfaba1g   nfaba1
+proposed  nfabg     nfab
+proposed  hblemg    hblem
+proposed  nfsabg    nfsab
+proposed  hbabg     hbab
+proposed  cbvmptvg  cbvmptv
+proposed  cbvmptg   cbvmpt
+proposed  cbvmptfg  cbvmptf
+proposed  cbvopab1g cbvopab1
+proposed  nfiund    nfiundv
+proposed  bnj1441   bnj1441v
+proposed  cbviinv   cbviinvv
+proposed  cbviunv   cbviunvv
+proposed  cbviin    cbviinv
+proposed  cbviun    cbviunv
+proposed  nfiin     nfiinv
+proposed  nfiun     nfiunv
+proposed  nfrex     nfrexv
+proposed  nfrexd    nfrexdv
+proposed  nfaba1    nfaba1v
+proposed  nfab      nfabv
+proposed  hblem     hblemv
+proposed  nfsab     nfsabv
+proposed  hbab      hbabv
+proposed  cbvmptv   cbvmptvv
+proposed  cbvmpt    cbvmptv
+proposed  cbvmptf   cbvmptfv
+proposed  cbvopab1  cbvopab1v
 proposed  syl       imtri       (analogous to *bitr*, sstri, etc.)
-proposed  sylib     imbitri     etc.
-proposed  sylbid    biimtrd     etc.
-proposed  sylbird   biimtrrd    etc.
-proposed  syl5*     *trid       (syl5bi -> biimtrid; syl5eqel -> eqeltrid;etc.)
-proposed  syl6*     *trdi
-proposed  *mpt2*    *mpo*       (renaming process underway)
+                                there is less agreement on renaming syl
+                                than others here
+proposed  syld      imtrd
+proposed  syldc     imtrdcom
+proposed  syldd     imtrdd
+proposed  sylbi     biimtri
+proposed  sylib     imbitri
+proposed  sylbb     bitriim
+proposed  sylibr    imbitrri
+proposed  sylbir    biimtrri
+proposed  sylbbr    bitrriim
+proposed  sylbb1    bitr3iim
+proposed  sylbb2    bitr4iim
+proposed  sylibd    imbitrd
+proposed  sylbid    biimtrd
+proposed  sylibrd   imbitrrd
+proposed  sylbird   biimtrrd
+proposed  syl5com   imtridcom
+proposed  syl5      imtrid      alternate proposal: sylid
+proposed  syl56     imtridi
+proposed  syl5d     imtridd
+proposed  syl5bi    biimtrid
+proposed  syl5bir   biimtrrid
+proposed  syl5ib    imbitrid
+proposed  syl5ibcom imbitridcom
+proposed  syl5ibr   imbitrrid
+proposed  syl5ibrcom imbitrridcom
+proposed  syl5bb    bitrid      compare to bitri or bitrd
+proposed  syl5rbb   bitr2id     compare to bitr2i or bitr2d
+proposed  syl5eq    eqtrid      compare to eqtri or eqtrd
+proposed  syl5req   eqtr2id     compare to eqtr2i or eqtr2d
+proposed  syl5eqr   eqtr3id     compare to eqtr3i or eqtr3d
+proposed  syl5reqr  eqtr3di     hypotheses would be switched
+proposed  syl6      imtrdi      alternate proposal: syldi
+proposed  syl6com   imtrdicom
+proposed  syl6d     imtrdid
+proposed  syl6ib    imbitrdi
+proposed  syl6ibr   imbitrrdi
+proposed  syl6bi    biimtrdi
+proposed  syl6bir   biimtrrdi
+proposed  syl6bb    bitrdi      compare to bitri or bitrd
+proposed  syl6rbb   bitr2di     compare to bitr2i or bitr2d
+proposed  syl6bbr   bitr4di     compare to bitr4i or bitr4d
 (Please send any comments on these proposals to the mailing list or
 make a github issue.)
 
 DONE:
 Date      Old       New         Notes
+21-Jul-24 syl6rbbr  bitr4id     order of hypotheses is switched
+ 6-Jul-24 syl6eq    eqtrdi      compare to eqtri or eqtrd
+ 6-Jul-24 syl6reqr  eqtr4id     order of hypotheses is switched
+ 2-Jul-24 snn0d     [same]      moved from GS's mathbox to main set.mm
+26-Jun-24 rnresss   [same]      moved from GS's mathbox to main set.mm
+26-Jun-24 fndmexd   [same]      moved from RR's mathbox to main set.mm
+26-Jun-24 iunssf    [same]      moved from GS's mathbox to main set.mm
+26-Jun-24 rp-imass  resssxp     moved from RP's mathbox to main set.mm
+26-Jun-24 sscon34b  [same]      moved from RP's mathbox to main set.mm
+26-Jun-24 rcompleq  [same]      moved from RP's mathbox to main set.mm
+26-Jun-24 funresd   [same]      moved from GS's mathbox to main set.mm
+26-Jun-24 cmnmndd   [same]      moved from SN's mathbox to main set.mm
+26-Jun-24 syl6req   eqtr2di     compare to eqtr2i or eqtr2d
+16-Jun-24 syl6eqr   eqtr4di     compare to eqtr4i or eqtr4d
+16-Jun-24 fnun2d    [same]      moved from MKU's mathbox to main set.mm
+16-Jun-24 fnun1d    [same]      moved from MKU's mathbox to main set.mm
+16-Jun-24 fnund     [same]      moved from MKU's mathbox to main set.mm
+16-Jun-24 partfun   [same]      moved from TA's mathbox to main set.mm
+16-Jun-24 elrnmptd  [same]      moved from GS's mathbox to main set.mm
+15-Jun-24 resexd    [same]      moved from GS's mathbox to main set.mm
+10-Jun-24 bj-intss  intss2      moved from BJ's mathbox to main set.mm
+ 3-Jun-24 nfcriv    nfcri       dv condition was removed
+31-May-24 ringgrpd  [same]      moved from SN's mathbox to main set.mm
+31-May-24 crnggrpd  [same]      moved from SN's mathbox to main set.mm
+31-May-24 crngringd [same]      moved from SN's mathbox to main set.mm
+25-May-24 suppcofnd ---         deleted; its sole usage now uses
+                                suppcoss
+23-May-24 syl5bbr   bitr3id     compare to bitr3i or bitr3d
+23-May-24 elfzd     [same]      moved from GS's mathbox to main set.mm
+23-May-24 elfelzd   [same]      moved from GS's mathbox to main set.mm
+22-May-24 2exp5     [same]      moved from AV's mathbox to main set.mm
+16-May-24 2exp7     [same]      moved from AV's mathbox to main set.mm
+13-May-24 syl5rbbr  bitr3di     order of hypotheses is switched
+12-May-24 ioosscn   [same]      moved from GS's mathbox to main set.mm
+12-May-24 iccssred  [same]      moved from GS's mathbox to main set.mm
+12-May-24 cncfcompt2  [same]    moved from GS's mathbox to main set.mm
+12-May-24 idcncf    [same]      moved from JM's mathbox to main set.mm
+12-May-24 sub1cncf  [same]      moved from JM's mathbox to main set.mm
+12-May-24 sub2cncf  [same]      moved from JM's mathbox to main set.mm
+12-May-24 addcncf   [same]      moved from GS's mathbox to main set.mm
+12-May-24 subcncf   [same]      moved from GS's mathbox to main set.mm
+12-May-24 dvmptresicc [same]    moved from GS's mathbox to main set.mm
+ 8-May-24 fexd      [same]      moved from GS's mathbox to main set.mm
+29-Apr-24 elunitcn  [same]      moved from TA's mathbox to main set.mm
+29-Apr-24 elunitrn  [same]      moved from TA's mathbox to main set.mm
+29-Apr-24 unitsscn  [same]      moved from TA's mathbox to main set.mm
+29-Apr-24 itgpowd   [same]      moved from JPP's mathbox to main set.mm
+29-Apr-24 ifpdfbi   [same]      moved from RP's mathbox to main set.mm
+26-Apr-24 bddiblnc  [same]      moved from BL's mathbox to main set.mm
+26-Apr-24 cnicciblnc  [same]    moved from BL's mathbox to main set.mm
+21-Apr-24 nnindd    [same]      moved from TA's mathbox to main set.mm
+17-Apr-24 syl6eqel  eqeltrdi    compare to eqeltri or eqeltrd
+13-Apr-24 unitresl  olcnd
+13-Apr-24 unitresr  orcnd
+12-Apr-24 mth8      jcn
+12-Apr-24 jcn       jcnd
+10-Apr-24 syl6eqelr eqeltrrdi   compare to eqeltrri or eqeltrrd
+29-Mar-24 fvmptdf   fvmptd2f
+28-Mar-24 ---       ---         section "Monoid of endofunctions"
+                                moved from AV's mathbox to main set.mm
+24-Mar-24 anim12da  ---         deleted (in JM's mathbox),
+                                duplicate of anim12dan
+24-Mar-24 elabd     spcedv
+23-Mar-24 funfvima2d [same]     moved from SP's mathbox to main set.mm
+17-Mar-24 uniexd    [same]      moved from GS's mathbox to main set.mm
+16-Mar-24 syl6eleq  eleqtrdi    compare to eleqtri or eleqtrd
+10-Mar-24 syl6eleqr eleqtrrdi   compare to eleqtrri or eleqtrrd
+29-Feb-24 syl6ss    sstrdi      compare to sstri or sstrd
+27-Feb-24 syl6sseq  sseqtrdi    compare to sseqtri or sseqtrd
+13-Feb-24 syl6eqss  eqsstrdi    compare to eqsstri or eqsstrd
+ 4-Feb-24 syl6eqssr eqsstrrdi   compare to eqsstrri or eqsstrrd
+29-Jan-24 ccatw2s1ccatws2 [same] revised - eliminated unnecessary antecedent
+28-Jan-24 ccat2s1fst [same]     revised - eliminated unnecessary antecedent
+28-Jan-24 ccatw2s1ass [same]    revised - eliminated unnecessary antecedent
+28-Jan-24 ccat2s1fvw [same]     revised - eliminated unnecessary antecedent
+28-Jan-24 ccat2s1fvwALT [same]  revised - eliminated unnecessary antecedent
+28-Jan-24 ccatw2s1p1 [same]     revised - eliminated unnecessary antecedent
+23-Jan-24 nelb      [same]      moved from TA's mathbox to main set.mm
+22-Jan-24 syl6sseqr sseqtrrdi
+21-Jan-24 ccats1val1 [same]     revised - eliminated unnecessary antecedent
+21-Jan-24 ccat2s1p1 [same]      revised - eliminated unnecessary antecedent
+21-Jan-24 ccat2s1p2 [same]      revised - eliminated unnecessary antecedent
+20-Jan-24 nfiund    nfiundg
+20-Jan-24 bnj1441   bnj1441g
+20-Jan-24 cbviinv   cbviinvg
+20-Jan-24 cbviunv   cbviunvg
+20-Jan-24 cbviin    cbviing
+20-Jan-24 cbviun    cbviung
+20-Jan-24 nfiin     nfiing
+20-Jan-24 nfiun     nfiung
+20-Jan-24 nfrex     nfrexg
+20-Jan-24 nfrexd    nfrexdg
+20-Jan-24 nfaba1    nfaba1g
+20-Jan-24 nfab      nfabg
+20-Jan-24 hblem     hblemg
+20-Jan-24 nfsab     nfsabg
+20-Jan-24 hbab      hbabg
+17-Jan-24 cbvmptv   cbvmptvg
+17-Jan-24 cbvmpt    cbvmptg
+17-Jan-24 cbvmptf   cbvmptfg
+17-Jan-24 cbvopab1  cbvopab1g
+17-Jan-24 mteqand   [same]      moved from SN's mathbox to main set.mm
+15-Jan-24 sseqtr4d  sseqtrrd
+14-Jan-24 sseqtr4i  sseqtrri
+14-Jan-24 ccat2s1len [same]     revised - eliminated unnecessary antecedents
+14-Jan-24 wlklenvclwlk [same]   revised - eliminated unnecessary antecedent
+13-Jan-24 mndlsmidm [same]      moved from AV's mathbox to main set.mm
+13-Jan-24 smndlsmidm [same]     moved from AV's mathbox to main set.mm
+13-Jan-24 cycsubm   [same]      moved from AV's mathbox to main set.mm
+13-Jan-24 cycsubmcl [same]      moved from AV's mathbox to main set.mm
+13-Jan-24 cycsubmel [same]      moved from AV's mathbox to main set.mm
+13-Jan-24 mulgnn0gsum [same]    moved from AV's mathbox to main set.mm
+13-Jan-24 mulgnngsum [same]     moved from AV's mathbox to main set.mm
+13-Jan-24 gsumxp2   [same]      moved from AV's mathbox to main set.mm
+13-Jan-24 gsumreidx [same]      moved from AV's mathbox to main set.mm
+13-Jan-24 gsumsgrpccat [same]   moved from AV's mathbox to main set.mm
+13-Jan-24 gsumsplit1r [same]    moved from AV's mathbox to main set.mm
+13-Jan-24 mndbn0    [same]      moved from AV's mathbox to main set.mm
+13-Jan-24 lidrididd [same]      moved from AV's mathbox to main set.mm
+13-Jan-24 lidrideqd [same]      moved from AV's mathbox to main set.mm
+ 5-Jan-24 ---       ---         sections "Groups" and "Simple groups"
+                                moved from RR's mathbox to main set.mm
+ 5-Jan-24 rr-php2d  phpeqd      moved from RR's mathbox to main set.mm
+ 5-Jan-24 phphashd  [same]      moved from RR's mathbox to main set.mm
+ 5-Jan-24 phphash2d phphashrd   moved from RR's mathbox to main set.mm
+ 5-Jan-24 hashelne0d [same]     moved from RR's mathbox to main set.mm
+ 5-Jan-24 hash1elsn [same]      moved from RR's mathbox to main set.mm
+ 5-Jan-24 gcdmuld   gcdmultipled moved from RR's mathbox to main set.mm
+ 5-Jan-24 gcddvdsd  dvdsgcdidd  moved from RR's mathbox to main set.mm
+ 5-Jan-24 neqcomd   [same]      moved from RR's mathbox to main set.mm
+ 5-Jan-24 rr-rspce  rspcime     moved from RR's mathbox to main set.mm
+ 5-Jan-24 rr-elrnmptd elrnmptdv moved from RR's mathbox to main set.mm
+ 5-Jan-24 rr-elrnmpt2d elrnmpt2d moved from RR's mathbox to main set.mm
+ 5-Jan-24 enpr2d    [same]      moved from RR's mathbox to main set.mm
+ 5-Jan-24 cntrcmnd  [same]      moved from TA's mathbox to main set.mm
+ 5-Jan-24 cntrabl   [same]      moved from TA's mathbox to main set.mm
+ 5-Jan-24 syl6eqbr  eqbrtrdi    compare to eqbrtri or eqbrtrd
+ 5-Jan-24 syl6eqbrr eqbrtrrdi   compare to eqbrtrri or eqbrtrrd
+ 4-Jan-24 fimaproj  [same]      moved from TA's mathbox to main set.mm
+ 4-Jan-24 fproj     [same]      moved from TA's mathbox to main set.mm
+ 4-Jan-24 mptima    [same]      moved from GS's mathbox to main set.mm
+ 3-Jan-24 unima     [same]      moved from GS's mathbox to main set.mm
+29-Dec-23 uzidd     [same]      moved from GS's mathbox to main set.mm
+28-Dec-23 eqri      [same]      moved from TA's mathbox to main set.mm
+28-Dec-23 domep     dmep        moved from SF's mathbox to main set.mm
+28-Dec-23 compel    velcomp     moved from AS's mathbox to main set.mm
+28-Dec-23 syl6breq  breqtrdi    compare to breqtri or breqtrd
+26-Dec-23 syl6breqr breqtrrdi   compare to breqtrri or breqtrrd
+25-Dec-23 prth      anim12
+25-Dec-23 selpw     velpw
+17-Dec-23 syl5eqel  eqeltrid    compare to eqeltri or eqeltrd
+13-Dec-23 syl5eqelr eqeltrrid   compare to eqeltrri or eqeltrrd
+13-Dec-23 syl5eleq  eleqtrid    compare to eleqtri or eleqtrd
+11-Dec-23 syl5eleqr eleqtrrid   compare to eleqtrri or eleqtrrd
+11-Dec-23 syl5eqner eqnetrrid   compare to eqnetrri or eqnetrrd
+ 6-Dec-23 hbaevg                deleted
+ 6-Dec-23 hbnaevg   naev2       similarity to aev2
+ 4-Dec-23 syl5ss    sstrid      compare to sstri or sstrd
+ 3-Dec-23 syl5eqss  eqsstrid    compare to eqsstri or eqsstrd
+ 1-Dec-23 syl5eqssr eqsstrrid   compare to eqsstrri or eqsstrrd
+28-Nov-23 unitresl  [same]      moved from GM's mathbox to main set.mm
+28-Nov-23 unitresr  [same]      moved from GM's mathbox to main set.mm
+28-Nov-23 nel02     [same]      moved from PM's mathbox to main set.mm
+28-Nov-23 fvco3d    [same]      moved from SP's mathbox to main set.mm
+28-Nov-23 fzossz    [same]      moved from GS's mathbox to main set.mm
+26-Nov-23 syl5sseq  sseqtrid    compare to sseqtri or sseqtrd
+21-Nov-23 syl5sseqr sseqtrrid
+21-Nov-23 eqsstr3d  eqsstrrd
+21-Nov-23 eqsstr3i  eqsstrri
+18-Nov-23 fun11iun  f1iun       labeling consistent with fiun
+18-Nov-23 inex2ALTV inex2g      moved from PM's mathbox to main set.mm
+18-Nov-23 bj-rabbid rabbid      moved from BJ's mathbox to main set.mm
+18-Nov-23 bj-rabbida rabbida    moved from BJ's mathbox to main set.mm
+18-Nov-23 elmapresaun [same]    moved from SO's mathbox to main set.mm
+17-Nov-23 syl5eqbr  eqbrtrid    compare to eqbrtri or eqbrtrd
+13-Nov-23 syl5eqbrr eqbrtrrid   compare to eqbrtrri or eqbrtrrd
+12-Nov-23 syl5breq  breqtrid    compare to breqtri or breqtrd
+11-Nov-23 syl5breqr breqtrrid   compare to breqtrri or breqtrrd
+ 5-Nov-23 ascl0     [same]      moved from AV's mathbox to main set.mm
+ 5-Nov-23 fcod      [same]      moved from GS's mathbox to main set.mm
+31-Oct-23 spimv1    spimfv      labeling consistent with speimfv
+28-Oct-23 bj-2ex    2oex        moved from BJ's mathbox to main set.mm
+23-Oct-23 bj-alequexv alequexv  moved from BJ's mathbox to main set.mm
+23-Oct-23 axext2    axexte      existential form of ax-ext
+23-Oct-23 axext3    axextg      more general form of ax-ext
+23-Oct-23 axext4    axextb      biconditional form of ax-ext
+22-Oct-23 spimeh    spimew      existential version of spimw
+22-Oct-23 speiv     speivw      weak form of speiv
+22-Oct-23 axsep2    axsepg
+20-Oct-23 xnn0lem1lt [same]     moved from TA's mathbox to main set.mm
+15-Oct-23 fnssresd  [same]      moved from GS's mathbox to main set.mm
+11-Oct-23 2exanali  [same]      moved from ATS's mathbox to main set.mm
+ 6-Oct-23 vtocl2d   [same]      moved from TA's mathbox to main set.mm
+ 4-Oct-23 df-cda    df-dju      use |_| instead of +c
+ 4-Oct-23 cdaval    df-dju      use |_| instead of +c
+ 4-Oct-23 cdadju    ---         use |_| instead of +c
+ 4-Oct-23 xpsc      ---         +c is no longer used or needed
+ 4-Oct-23 xpscg     ---         +c is no longer used or needed
+ 4-Oct-23 dfxpspr   df-xps      changes from +c to a pair of ordered pairs
+ 4-Oct-23 df-xps    [same]      changes from +c to a pair of ordered pairs
+ 4-Oct-23 xpscfn    fnpr2o      changes from +c to a pair of ordered pairs
+ 4-Oct-23 xpsc0     fvpr0o      changes from +c to a pair of ordered pairs
+ 4-Oct-23 xpsc1     fvpr1o      changes from +c to a pair of ordered pairs
+ 4-Oct-23 xpsfrnel2cda xpsfrnel2 changes from +c to a pair of ordered pairs
+ 4-Oct-23 xpscfcda  xpscf       changes from +c to a pair of ordered pairs
+ 4-Oct-23 dprdpr    [same]      changes from +c to a pair of ordered pairs
+ 4-Oct-23 dmdprdpr  [same]      changes from +c to a pair of ordered pairs
+ 2-Oct-23 xpsfeqcda xpsfeq      changes from +c to a pair of ordered pairs
+ 2-Oct-23 xpscfv    fvprif      changes from +c to a pair of ordered pairs
+ 2-Oct-23 xpsfvalcda xpsfval    changes from +c to a pair of ordered pairs
+ 2-Oct-23 xpsff1ocda xpsff1o    changes from +c to a pair of ordered pairs
+ 2-Oct-23 xpsfrncda xpsfrn      changes from +c to a pair of ordered pairs
+ 2-Oct-23 xpsff1o2cda xpsff1o2  changes from +c to a pair of ordered pairs
+ 2-Oct-23 xpsvalcda xpsval      changes from +c to a pair of ordered pairs
+ 2-Oct-23 xpslem    xpsrnbas    changes from +c to a pair of ordered pairs
+ 1-Oct-23 xpsxmetlem [same]     changes from +c to a pair of ordered pairs
+ 1-Oct-23 xpstopnlem2 [same]    changes from +c to a pair of ordered pairs
+ 1-Oct-23 xpstopnlem1 [same]    changes from +c to a pair of ordered pairs
+29-Sep-23 xpsaddlem [same]      changes from +c to a pair of ordered pairs
+26-Sep-23 xpscf     xpscfcda
+26-Sep-23 xpsfrnel2 xpsfrnel2cda
+26-Sep-23 xpsfeq    xpsfeqcda
+26-Sep-23 xpsff1o2  xpsff1o2cda
+26-Sep-23 xpsfrn2   ---         deleted
+26-Sep-23 xpsfrn    xpsfrncda
+26-Sep-23 xpsff1o   xpsff1ocda
+26-Sep-23 xpsfval   xpsfvalcda
+24-Sep-23 nelpr1    [same]      moved from GS's mathbox to main set.mm
+24-Sep-23 nelpr2    [same]      moved from GS's mathbox to main set.mm
+24-Sep-23 breldmd   [same]      moved from GS's mathbox to main set.mm
+24-Sep-23 fvelimad  [same]      moved from GS's mathbox to main set.mm
+24-Sep-23 0un       [same]      moved from GS's mathbox to main set.mm
+24-Sep-23 ovmpt2x2  ovmpox2
+24-Sep-23 ovmpt2rdx ovmpordx
+24-Sep-23 ovmpt2rdxf ovmpordxf
+24-Sep-23 mpt2exxg2 mpoexxg2
+24-Sep-23 dmmpt2ssx2 dmmpossx2
+24-Sep-23 cbvmpt2x2 cbvmpox2
+24-Sep-23 mpt2mptx2 mpomptx2
+24-Sep-23 opmpt2ismgm opmpoismgm
+24-Sep-23 elrnmpt2id elrnmpoid
+24-Sep-23 cbvmpt21  cbvmpo1
+24-Sep-23 cbvmpt22  cbvmpo2
+23-Sep-23 mpt2bi123f mpobi123f
 23-Sep-23 wl-naev   naev        moved from WL's mathbox to main set.mm
 22-Sep-23 bj-spimevw spimevw    moved from BJ's mathbox to main set.mm
 21-Sep-23 icorempt2 icorempo
 21-Sep-23 csbmpt22g csbmpo123
+21-Sep-23 xpsval    xpsvalcda
 20-Sep-23 bj-sels   sels        moved from BJ's mathbox to main set.mm
 20-Sep-23 bj-mpt2mptALT bj-mpomptALT
 20-Sep-23 bj-dfmpt2a bj-dfmpoa
@@ -1025,8 +1345,8 @@ Date      Old       New         Notes
 18-Jul-20 0fallfac  [same]      moved from SF's mathbox to main set.mm
 18-Jul-20 fallfacfwd [same]     moved from SF's mathbox to main set.mm
 18-Jul-20 risefacfac [same]     moved from SF's mathbox to main set.mm
-18-Jul-20 fallfac1 [same]       moved from SF's mathbox to main set.mm
-18-Jul-20 risefac1 [same]       moved from SF's mathbox to main set.mm
+18-Jul-20 fallfac1  [same]      moved from SF's mathbox to main set.mm
+18-Jul-20 risefac1  [same]      moved from SF's mathbox to main set.mm
 18-Jul-20 fallfacp1d [same]     moved from SF's mathbox to main set.mm
 18-Jul-20 risefacp1d [same]     moved from SF's mathbox to main set.mm
 18-Jul-20 fallfacp1 [same]      moved from SF's mathbox to main set.mm

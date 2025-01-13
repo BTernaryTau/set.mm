@@ -8830,7 +8830,8 @@ en2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12
 en3: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
 en4: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
 findcard2OLD: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr ax-un
-findcard3: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
+findcard3: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr ax-un
+findcard3OLD: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
 ac6sfi: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr ax-un
 frfi: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr ax-un
 fimax2g: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr ax-un
@@ -8846,10 +8847,13 @@ unblem4: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 a
 unbnn: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
 unbnn2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
 isfinite2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
-nnsdomg: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
+nnsdomg: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr ax-un
+nnsdomgOLD: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
 isfiniteg: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
-infsdomnn: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
-infn0: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
+infsdomnn: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr ax-un
+infsdomnnOLD: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
+infn0: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-12 ax-ext ax-sep ax-nul ax-pr
+infn0ALT: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr ax-un
 fin2inf: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-ext ax-sep ax-nul ax-pr
 unfilem1: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr ax-un
 unfilem2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr ax-un
@@ -8858,8 +8862,9 @@ unfiOLD: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 a
 unfir: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr ax-un
 unfi2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
 difinf: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr ax-un
-xpfi: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
-3xpfi: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
+xpfi: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr ax-un
+xpfiOLD: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
+3xpfi: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr ax-un
 domunfican: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
 infcntss: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
 prfi: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr ax-un
@@ -8916,7 +8921,7 @@ fndmfifsupp: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-
 suppeqfsuppbi: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-ext ax-sep ax-nul ax-pr
 suppssfifsupp: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr ax-un
 fsuppsssupp: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr ax-un
-fsuppxpfi: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
+fsuppxpfi: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr ax-un
 fczfsuppd: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-rep ax-sep ax-nul ax-pow ax-pr ax-un
 fsuppun: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr ax-un
 fsuppunfi: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr ax-un
@@ -9168,7 +9173,7 @@ dfom5: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-
 oancom: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-rep ax-sep ax-nul ax-pr ax-un ax-inf2
 isfinite: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un ax-inf2
 fict: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un ax-inf2
-nnsdom: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un ax-inf2
+nnsdom: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr ax-un ax-inf2
 omenps: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un ax-inf2
 omensuc: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un ax-inf2
 infdifsn: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un

@@ -1992,7 +1992,8 @@ cbvexdvaw: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7
 cbval2vw: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7
 cbvex2vw: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7
 cbvex4vw: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7
-alcomiw: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7
+alcomimw: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7
+excomimw: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7
 alcomw: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7
 hbn1fw: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7
 hbn1w: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7
@@ -5808,9 +5809,10 @@ relrn0: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax
 dmrnssfld: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-ext ax-sep ax-nul ax-pr
 dmcoss: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-12 ax-ext ax-sep ax-nul ax-pr
 rncoss: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-12 ax-ext ax-sep ax-nul ax-pr
-dmcosseq: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
-dmcoeq: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
-rncoeq: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
+dmcosseq: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-12 ax-ext ax-sep ax-nul ax-pr
+dmcosseqOLD: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
+dmcoeq: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-12 ax-ext ax-sep ax-nul ax-pr
+rncoeq: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-12 ax-ext ax-sep ax-nul ax-pr
 reseq1: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-ext
 reseq2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-ext
 reseq1i: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-ext
@@ -6120,7 +6122,7 @@ relcoi2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-ext ax-sep
 relcoi1: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-ext ax-sep ax-nul ax-pr
 unidmrn: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-ext ax-sep ax-nul ax-pr
 relcnvfld: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-ext ax-sep ax-nul ax-pr
-dfdm2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
+dfdm2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-12 ax-ext ax-sep ax-nul ax-pr
 unixp: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
 unixp0: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-11 ax-ext ax-sep ax-nul ax-pr
 unixpid: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
@@ -6667,12 +6669,12 @@ resdif: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-12 ax
 resin: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-12 ax-ext ax-sep ax-nul ax-pr
 f1oco: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
 f1cnv: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-ext ax-sep ax-nul ax-pr
-funcocnv2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
-fococnv2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
-f1ococnv2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
-f1cocnv2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
-f1ococnv1: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
-f1cocnv1: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
+funcocnv2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-12 ax-ext ax-sep ax-nul ax-pr
+fococnv2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-12 ax-ext ax-sep ax-nul ax-pr
+f1ococnv2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-12 ax-ext ax-sep ax-nul ax-pr
+f1cocnv2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-12 ax-ext ax-sep ax-nul ax-pr
+f1ococnv1: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-12 ax-ext ax-sep ax-nul ax-pr
+f1cocnv1: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-12 ax-ext ax-sep ax-nul ax-pr
 funcoeqres: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
 f1ssf1: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-12 ax-ext ax-sep ax-nul ax-pr
 f10: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
@@ -9850,8 +9852,9 @@ dfac4: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-
 dfac5lem1: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
 dfac5lem2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
 dfac5lem3: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
-dfac5lem4: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-11 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
+dfac5lem4: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
 dfac5lem5: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
+dfac5lem4OLD: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-11 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
 dfac5: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
 dfac2a: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un
 dfac2b: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pow ax-pr ax-un ax-reg
@@ -9968,7 +9971,8 @@ ackbij2lem4: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-
 ackbij2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-rep ax-sep ax-nul ax-pow ax-pr ax-un
 r1om: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-rep ax-sep ax-nul ax-pow ax-pr ax-un ax-inf2
 fictb: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-rep ax-sep ax-nul ax-pow ax-pr ax-un
-cflem: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-11 ax-ext ax-nul
+cflem: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-ext ax-nul
+cflemOLD: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-11 ax-ext ax-nul
 cfval: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
 cff: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
 cfub: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
@@ -31181,7 +31185,7 @@ cyc3fv1: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 a
 cyc3fv2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-rep ax-sep ax-nul ax-pow ax-pr ax-un ax-cnex ax-resscn ax-1cn ax-icn ax-addcl ax-addrcl ax-mulcl ax-mulrcl ax-mulcom ax-addass ax-mulass ax-distr ax-i2m1 ax-1ne0 ax-1rid ax-rnegex ax-rrecex ax-cnre ax-pre-lttri ax-pre-lttrn ax-pre-ltadd ax-pre-mulgt0 ax-pre-sup
 cyc3fv3: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-rep ax-sep ax-nul ax-pow ax-pr ax-un ax-cnex ax-resscn ax-1cn ax-icn ax-addcl ax-addrcl ax-mulcl ax-mulrcl ax-mulcom ax-addass ax-mulass ax-distr ax-i2m1 ax-1ne0 ax-1rid ax-rnegex ax-rrecex ax-cnre ax-pre-lttri ax-pre-lttrn ax-pre-ltadd ax-pre-mulgt0 ax-pre-sup
 cyc3co2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-rep ax-sep ax-nul ax-pow ax-pr ax-un ax-cnex ax-resscn ax-1cn ax-icn ax-addcl ax-addrcl ax-mulcl ax-mulrcl ax-mulcom ax-addass ax-mulass ax-distr ax-i2m1 ax-1ne0 ax-1rid ax-rnegex ax-rrecex ax-cnre ax-pre-lttri ax-pre-lttrn ax-pre-ltadd ax-pre-mulgt0 ax-pre-sup
-cycpmconjvlem: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
+cycpmconjvlem: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-12 ax-ext ax-sep ax-nul ax-pr
 cycpmconjv: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-rep ax-sep ax-nul ax-pow ax-pr ax-un ax-cnex ax-resscn ax-1cn ax-icn ax-addcl ax-addrcl ax-mulcl ax-mulrcl ax-mulcom ax-addass ax-mulass ax-distr ax-i2m1 ax-1ne0 ax-1rid ax-rnegex ax-rrecex ax-cnre ax-pre-lttri ax-pre-lttrn ax-pre-ltadd ax-pre-mulgt0 ax-pre-sup
 cycpmrn: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-rep ax-sep ax-nul ax-pow ax-pr ax-un ax-cnex ax-resscn ax-1cn ax-icn ax-addcl ax-addrcl ax-mulcl ax-mulrcl ax-mulcom ax-addass ax-mulass ax-distr ax-i2m1 ax-1ne0 ax-1rid ax-rnegex ax-rrecex ax-cnre ax-pre-lttri ax-pre-lttrn ax-pre-ltadd ax-pre-mulgt0 ax-pre-sup
 tocyccntz: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-rep ax-sep ax-nul ax-pow ax-pr ax-un ax-cnex ax-resscn ax-1cn ax-icn ax-addcl ax-addrcl ax-mulcl ax-mulrcl ax-mulcom ax-addass ax-mulass ax-distr ax-i2m1 ax-1ne0 ax-1rid ax-rnegex ax-rrecex ax-cnre ax-pre-lttri ax-pre-lttrn ax-pre-ltadd ax-pre-mulgt0 ax-pre-sup
@@ -35693,16 +35697,16 @@ br1cossinidres: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-ext
 br1cossincnvepres: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-ext ax-sep ax-nul ax-pr
 br1cossxrnidres: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr ax-un
 br1cossxrncnvepres: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr ax-un
-dmcoss3: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
-dmcoss2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
+dmcoss3: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-12 ax-ext ax-sep ax-nul ax-pr
+dmcoss2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-12 ax-ext ax-sep ax-nul ax-pr
 rncossdmcoss: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-ext ax-sep ax-nul ax-pr
 dm1cosscnvepres: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
 dmcoels: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
-eldmcoss: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
-eldmcoss2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
-eldm1cossres: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
-eldm1cossres2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
-refrelcosslem: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
+eldmcoss: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-12 ax-ext ax-sep ax-nul ax-pr
+eldmcoss2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-12 ax-ext ax-sep ax-nul ax-pr
+eldm1cossres: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-12 ax-ext ax-sep ax-nul ax-pr
+eldm1cossres2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-12 ax-ext ax-sep ax-nul ax-pr
+refrelcosslem: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-12 ax-ext ax-sep ax-nul ax-pr
 refrelcoss3: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
 refrelcoss2: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-10 ax-11 ax-12 ax-ext ax-sep ax-nul ax-pr
 symrelcoss3: ax-mp ax-1 ax-2 ax-3 ax-gen ax-4 ax-5 ax-6 ax-7 ax-8 ax-9 ax-ext ax-sep ax-nul ax-pr

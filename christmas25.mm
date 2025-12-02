@@ -34,7 +34,7 @@ ax-distrb $a |- ( []. ( ph -> ps ) -> ( []. ph -> []. ps ) ) $.
 ${
   monrule.1 $e |- ( ph -> ps ) $.
   $( Day 1a.  The monotony rule. $)
-  monrule $p |- ( []. ph -> []. ps ) $= ? $.
+  monrule $p |- ( []. ph -> []. ps ) $= ( wi cbox ax-necess ax-distrb ax-mp ) ABDZEAEBEDICFABGH $.
 $}
 
 ${

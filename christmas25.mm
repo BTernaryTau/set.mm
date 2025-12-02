@@ -40,7 +40,7 @@ $}
 ${
   monbirule.1 $e |- ( ph <-> ps ) $.
   $( Day 1b.  The monotony rule for biimplications. $)
-  monbirule $p |- ( []. ph <-> []. ps ) $= ? $.
+  monbirule $p |- ( []. ph <-> []. ps ) $= ( cbox biimpi monrule biimpri impbii ) ADBDABABCEFBAABCGFH $.
 $}
 
 $( Day 2.  Box can be distributed through conjunction. $)

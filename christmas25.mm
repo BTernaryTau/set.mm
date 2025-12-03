@@ -44,7 +44,7 @@ ${
 $}
 
 $( Day 2.  Box can be distributed through conjunction. $)
-distrconj $p |- ( []. ( ph /\ ps ) <-> ( []. ph /\ []. ps ) ) $= ? $.
+distrconj $p |- ( []. ( ph /\ ps ) <-> ( []. ph /\ []. ps ) ) $= ( wa cbox simpl monrule simpr jca wi pm3.2 ax-distrb syl imp impbii ) ABCZDZADZBDZCPQROAABEFOBABGFHQRPQBOIZDRPIASABJFBOKLMN $.
 
 ${
   monimpconj.1 $e |- ( ( ph /\ ps ) -> ch ) $.

@@ -49,7 +49,7 @@ distrconj $p |- ( []. ( ph /\ ps ) <-> ( []. ph /\ []. ps ) ) $= ( wa cbox simpl
 ${
   monimpconj.1 $e |- ( ( ph /\ ps ) -> ch ) $.
   $( Day 3a.  Monotony for an implication with a conjunction inside. $)
-  monimpconj $p |- ( ( []. ph /\ []. ps ) -> []. ch ) $= ? $.
+  monimpconj $p |- ( ( []. ph /\ []. ps ) -> []. ch ) $= ( cbox wa distrconj monrule sylbir ) AEBEFABFZECEABGJCDHI $.
 $}
 
 $( Day 3b.  Box can be "factored out" of a disjunction in one direction. $)

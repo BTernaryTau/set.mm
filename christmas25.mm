@@ -53,7 +53,7 @@ ${
 $}
 
 $( Day 3b.  Box can be "factored out" of a disjunction in one direction. $)
-distrdisj $p |- ( ( []. ph \/ []. ps ) -> []. ( ph \/ ps ) ) $= ? $.
+distrdisj $p |- ( ( []. ph \/ []. ps ) -> []. ( ph \/ ps ) ) $= ( cbox wo orc monrule olc jaoi ) ACABDZCBCAIABEFBIBAGFH $.
 
 $c <>. $.
 

@@ -71,7 +71,7 @@ df-diam $a |- ( <>. ph <-> -. []. -. ph ) $.
 ${
   monruled.1 $e |- ( ph -> ps ) $.
   $( Day 4a.  The monotony rule (for diamond). $)
-  monruled $p |- ( <>. ph -> <>. ps ) $= ? $.
+  monruled $p |- ( <>. ph -> <>. ps ) $= ( wn cbox cdiam con3i monrule df-diam 3imtr4i ) ADZEZDBDZEZDAFBFNLMKABCGHGAIBIJ $.
 $}
 
 ${

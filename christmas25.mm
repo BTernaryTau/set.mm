@@ -77,7 +77,7 @@ $}
 ${
   monbiruled.1 $e |- ( ph <-> ps ) $.
   $( Day 4b.  The monotony rule for biimplications (for diamond). $)
-  monbiruled $p |- ( <>. ph <-> <>. ps ) $= ? $.
+  monbiruled $p |- ( <>. ph <-> <>. ps ) $= ( cdiam biimpi monruled biimpri impbii ) ADBDABABCEFBAABCGFH $.
 $}
 
 $( Day 5.  Diamond can be distributed through conjunction in one

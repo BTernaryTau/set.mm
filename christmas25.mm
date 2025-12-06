@@ -82,7 +82,7 @@ $}
 
 $( Day 5.  Diamond can be distributed through conjunction in one
    direction. $)
-distrconjd $p |- ( <>. ( ph /\ ps ) -> ( <>. ph /\ <>. ps ) ) $= ? $.
+distrconjd $p |- ( <>. ( ph /\ ps ) -> ( <>. ph /\ <>. ps ) ) $= ( wa cdiam simpl monruled simpr jca ) ABCZDADBDIAABEFIBABGFH $.
 
 $( Day 6.  Diamond can be distributed through disjunction. $)
 distrdisjd $p |- ( <>. ( ph \/ ps ) <-> ( <>. ph \/ <>. ps ) ) $= ? $.

@@ -85,7 +85,7 @@ $( Day 5.  Diamond can be distributed through conjunction in one
 distrconjd $p |- ( <>. ( ph /\ ps ) -> ( <>. ph /\ <>. ps ) ) $= ( wa cdiam simpl monruled simpr jca ) ABCZDADBDIAABEFIBABGFH $.
 
 $( Day 6.  Diamond can be distributed through disjunction. $)
-distrdisjd $p |- ( <>. ( ph \/ ps ) <-> ( <>. ph \/ <>. ps ) ) $= ? $.
+distrdisjd $p |- ( <>. ( ph \/ ps ) <-> ( <>. ph \/ <>. ps ) ) $= ( wn cbox wa wo cdiam ianor df-diam distrconj notbii ioran monbirule xchnxbir bitri orbi12i 3bitr4i ) ACZDZBCZDZEZCZSCZUACZFABFZGZAGZBGZFSUAHUGUFCZDZCUCUFIRTEZDZUCUKUMUBRTJKUJULABLMNOUHUDUIUEAIBIPQ $.
 
 $( Day 7.  If we have a conjunction of a diamond and a box, we can "factor" the diamond out. $)
 dandb $p |- ( ( <>. ph /\ []. ps ) -> <>. ( ph /\ ps ) ) $= ? $.

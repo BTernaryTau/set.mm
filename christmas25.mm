@@ -88,7 +88,7 @@ $( Day 6.  Diamond can be distributed through disjunction. $)
 distrdisjd $p |- ( <>. ( ph \/ ps ) <-> ( <>. ph \/ <>. ps ) ) $= ( wn cbox wa wo cdiam ianor df-diam distrconj notbii ioran monbirule xchnxbir bitri orbi12i 3bitr4i ) ACZDZBCZDZEZCZSCZUACZFABFZGZAGZBGZFSUAHUGUFCZDZCUCUFIRTEZDZUCUKUMUBRTJKUJULABLMNOUHUDUIUEAIBIPQ $.
 
 $( Day 7.  If we have a conjunction of a diamond and a box, we can "factor" the diamond out. $)
-dandb $p |- ( ( <>. ph /\ []. ps ) -> <>. ( ph /\ ps ) ) $= ? $.
+dandb $p |- ( ( <>. ph /\ []. ps ) -> <>. ( ph /\ ps ) ) $= ( cdiam cbox wa wn wi df-diam imnan biimpri con2d monrule ax-distrb syl com12 con3rr3 sylbi imbitrrdi imp ) ACZBDZABEZCZTUAUBFZDZFZUCTAFZDZFUAUFGAHUAUEUHUEUAUHUEBUGGZDUAUHGUDUIUDABABFGUDABIJKLBUGMNOPQUBHRS $.
 
 $( The Godel-Lob axiom, which defines the logic GL. In this logic ` []. ` is
    interpreted as "provable in Peano arithmetic (PA)".  In particular, this

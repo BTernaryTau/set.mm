@@ -103,7 +103,7 @@ $( Day 8a.  Modal logic K4 extends K with an axiom ` [] ph -> []. []. ph ` .
    Turns out this axiom is true in GL, hence GL extends K4.  One can
    interpret this result as: if something is provable, then it's provable
    that it's provable. $)
-axk4 $p |- ( []. ph -> []. []. ph ) $= ? $.
+axk4 $p |- ( []. ph -> []. []. ph ) $= ( cbox wa wi distrconj idd adantrd anc2li biimtrid monrule ax-gl simprbi 3syl ) ABZANCZBZODZBPNBZAQPNRCZAOANEZASNANNRANFGHIJOKPNRTLM $.
 
 $( Day 8b.  Another form of ~ axk4 . $)
 axk4d $p |- ( <>. <>. ph -> <>. ph ) $= ? $.

@@ -106,7 +106,7 @@ $( Day 8a.  Modal logic K4 extends K with an axiom ` [] ph -> []. []. ph ` .
 axk4 $p |- ( []. ph -> []. []. ph ) $= ( cbox wa wi distrconj idd adantrd anc2li biimtrid monrule ax-gl simprbi 3syl ) ABZANCZBZODZBPNBZAQPNRCZAOANEZASNANNRANFGHIJOKPNRTLM $.
 
 $( Day 8b.  Another form of ~ axk4 . $)
-axk4d $p |- ( <>. <>. ph -> <>. ph ) $= ? $.
+axk4d $p |- ( <>. <>. ph -> <>. ph ) $= ( wn cbox cdiam axk4 con3i df-diam bicomi con1bii monbirule notbii bitr2i 3imtr3i ) ABZCZCZBZOBZADZDZSOPNEFTSBZCZBQSGUBPUAOOSSRAGHZIJKLUCM $.
 
 ${
   sdsdeqsdlem.1 $e |- []. ( ( ph /\ ps ) -> th ) $.

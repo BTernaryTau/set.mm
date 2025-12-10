@@ -110,9 +110,9 @@ axk4d $p |- ( <>. <>. ph -> <>. ph ) $= ( wn cbox cdiam axk4 con3i df-diam bicom
 
 ${
   sdsdeqsdlem.1 $e |- []. ( ( ph /\ ps ) -> th ) $.
-  $( Day 9a.  Two simple lemmata for ~ sdsdeqsd .  The proofs should reply
+  $( Day 9a.  Two simple lemmata for ~ sdsdeqsd .  The proofs should rely
      on ~ axk4 and its corollaries, not on ~ ax-gl . $)
-  sdsdeqsd1lem1 $p |- []. ( ( <>. ph /\ []. ps ) -> <>. th ) $= ? $.
+  sdsdeqsd1lem1 $p |- []. ( ( <>. ph /\ []. ps ) -> <>. th ) $= ( cdiam cbox wa wi dandb wn con3 monrule ax-distrb mp2b con3i df-diam 3imtr4i syl ax-necess ) AEBFGZCEZHTABGZEZUAABIUBJZFZJCJZFZJUCUAUGUEUBCHZFUFUDHZFUGUEHDUHUIUBCKLUFUDMNOUBPCPQRS $.
 
   $( Day 9b. $)
   sdsdeqsd1lem2 $p |- []. ( ( []. ph /\ <>. ps ) -> <>. th ) $= ? $.

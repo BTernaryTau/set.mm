@@ -115,7 +115,7 @@ ${
   sdsdeqsd1lem1 $p |- []. ( ( <>. ph /\ []. ps ) -> <>. th ) $= ( cdiam cbox wa wi dandb wn con3 monrule ax-distrb mp2b con3i df-diam 3imtr4i syl ax-necess ) AEBFGZCEZHTABGZEZUAABIUBJZFZJCJZFZJUCUAUGUEUBCHZFUFUDHZFUGUEHDUHUIUBCKLUFUDMNOUBPCPQRS $.
 
   $( Day 9b. $)
-  sdsdeqsd1lem2 $p |- []. ( ( []. ph /\ <>. ps ) -> <>. th ) $= ? $.
+  sdsdeqsd1lem2 $p |- []. ( ( []. ph /\ <>. ps ) -> <>. th ) $= ( cdiam cbox wa wi ancomst monbirule mpbi sdsdeqsd1lem1 ) BEZAFZGCEZHZFNMGOHZFBACABGCHZFBAGCHZFDRSABCIJKLPQMNOIJK $.
 $}
 
 $( Day 10.  Operator ` []. <>. ` applied twice equals itself in logic K4.

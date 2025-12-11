@@ -120,7 +120,7 @@ $}
 
 $( Day 10.  Operator ` []. <>. ` applied twice equals itself in logic K4.
    This proof again shouldn't rely on ~ ax-gl directly. $)
-sdsdeqsd $p |- ( []. <>. []. <>. ph <-> []. <>. ph ) $= ? $.
+sdsdeqsd $p |- ( []. <>. []. <>. ph <-> []. <>. ph ) $= ( cdiam cbox wa axk4 ancli distrconj sylibr wi simpr ax-necess sdsdeqsd1lem1 sdsdeqsd1lem2 ax-distrb ax-mp axk4d 3syl monrule dandb distrconjd sylan2 syl impbii ) ABZCZBZCZUEUGUFUGDZCZUDBZBZBZCZUEUGUGUGCZDUIUGUNUFEFUFUGGHUHULICUIUMIUEUFUKUDUEUJAUDUDAUDDUDIAUDJKLMLUHULNOULUDULUKUJUDUJPUDPAPQRQUEUDUEDZCZUGUEUEUECZDUPUEUQUDEZFUDUEGHUOUFUEUDUQUFURUDUQDAUEDBUDUFDUFAUESAUETUDUFJQUARUBUC $.
 
 $( Day 11.  A certain argument in the proof of Lob's theorem.  Again, don't
    rely on ~ ax-gl directly. $)

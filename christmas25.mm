@@ -124,7 +124,7 @@ sdsdeqsd $p |- ( []. <>. []. <>. ph <-> []. <>. ph ) $= ( cdiam cbox wa axk4 anc
 
 $( Day 11.  A certain argument in the proof of Lob's theorem.  Again, don't
    rely on ~ ax-gl directly. $)
-lobstep $p |- ( []. ( ps <-> ( []. ps -> ph ) ) -> ( []. ( []. ph -> ph ) -> []. ph ) ) $= ? $.
+lobstep $p |- ( []. ( ps <-> ( []. ps -> ph ) ) -> ( []. ( []. ph -> ph ) -> []. ph ) ) $= ( cbox wi wb axk4 biimp monrule ax-distrb syl5 imim2i pm2.43d 3syl syl imim2 biimpr sylcom com12 ) ACZADZCZBBCZADZEZCZSUAUEUBSUAUEUCCZUBUEUBSDZCZUAUFUEUECUHUDFUEUGUEBUCDZCUBUFDZUGUDUIBUCGHBUCIUJUBSUFUGUBUBUBCUFSBFUBAIJKLMZHNUAUGUCDZCUHUFDTULSAUBOHUGUCINJUEUCBDZCUFUBDUDUMBUCPHUCBINQUKQR $.
 
 $( Day 12a.  An unusual consequence of ~ ax-gl which works for any formulae
    ` ph ` and ` ps ` .  This could be interpreted as "if we can prove that

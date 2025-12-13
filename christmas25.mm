@@ -139,7 +139,7 @@ bfbdp $p |- ( []. F. <-> []. <>. ph ) $= ( wfal cbox cdiam falim monrule kurbis 
 $( Day 13.  Godel's second theorem can be proved in PA. Namely, if PA is
    consistent ( ` -. []. F. ` ), then we can't prove in PA that it's
    consistent. $)
-godel2 $p |- ( -. []. F. -> -. []. -. []. F. ) $= ? $.
+godel2 $p |- ( -. []. F. -> -. []. -. []. F. ) $= ( wfal cbox wn wtru cdiam kurbis con3i df-fal monbirule notbii df-diam bitr4i sylnibr ) AZBZCZDZEZBZPBSOQNFGPRPQCZBZCROUANTHIJQKLIM $.
 
 $( Day 14.  Note that ` []. ph \/ []. -. ph ` can be interpreted as " ` ph `
    is decidable".  Hence the following means that if inconsistency of PA is

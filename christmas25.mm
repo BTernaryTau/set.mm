@@ -134,7 +134,7 @@ kurbis $p |- ( []. <>. ph -> []. ps ) $= ( cdiam cbox wtru wfal trud monruled mo
 
 $( Day 12b.  We can prove False (i.e.  PA is inconsistent) if and only if we
    can prove consistency for any sentence ` ph ` . $)
-bfbdp $p |- ( []. F. <-> []. <>. ph ) $= ? $.
+bfbdp $p |- ( []. F. <-> []. <>. ph ) $= ( wfal cbox cdiam falim monrule kurbis impbii ) BZCADZCIJJEFAIGH $.
 
 $( Day 13.  Godel's second theorem can be proved in PA. Namely, if PA is
    consistent ( ` -. []. F. ` ), then we can't prove in PA that it's

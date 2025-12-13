@@ -130,7 +130,7 @@ $( Day 12a.  An unusual consequence of ~ ax-gl which works for any formulae
    ` ph ` and ` ps ` .  This could be interpreted as "if we can prove that
    ` ph ` is consistent with PA, then we can prove anything". From now on
    we can use ~ ax-gl in proofs again. $)
-kurbis $p |- ( []. <>. ph -> []. ps ) $= ? $.
+kurbis $p |- ( []. <>. ph -> []. ps ) $= ( cdiam cbox wtru wfal trud monruled monrule wi wn df-diam df-fal monbirule notbii bitr4i pm2.21 sylbi ax-gl syl falim 3syl ) ACZDEZCZDZFZDZBDUCUEAUDAGHIUFUHUGJZDUHUEUIUEUHKZUIUEUDKZDZKUJUDLUHULUGUKMNOPUHUGQRIUGSTUGBBUAIUB $.
 
 $( Day 12b.  We can prove False (i.e.  PA is inconsistent) if and only if we
    can prove consistency for any sentence ` ph ` . $)

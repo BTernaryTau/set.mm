@@ -144,7 +144,7 @@ godel2 $p |- ( -. []. F. -> -. []. -. []. F. ) $= ( wfal cbox wn wtru cdiam kurb
 $( Day 14.  Note that ` []. ph \/ []. -. ph ` can be interpreted as " ` ph `
    is decidable".  Hence the following means that if inconsistency of PA is
    not provable, then the consistency of PA is undecidable. $)
-incundec $p |- ( -. []. []. F. -> -. ( []. -. []. F. \/ []. -. -. []. F. ) ) $= ? $.
+incundec $p |- ( -. []. []. F. -> -. ( []. -. []. F. \/ []. -. -. []. F. ) ) $= ( wfal cbox wn wo wtru cdiam df-diam df-fal monbirule notbii bitr4i kurbis sylbir notnotr monrule jaoi con3i ) AZBZCZBZTCZBZDSBZUAUDUCUAEZFZBUDUFTUFUECZBZCTUEGSUHRUGHIJKIUESLMUBSSNOPQ $.
 
 $( Day 15.  Lemma for ~ equiva . $)
 equivalem $p |- ( []. ( ph <-> -. []. ph ) -> []. ( ph <-> -. []. F. ) ) $= ? $.

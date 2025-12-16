@@ -147,19 +147,23 @@ $( Day 14.  Note that ` []. ph \/ []. -. ph ` can be interpreted as " ` ph `
 incundec $p |- ( -. []. []. F. -> -. ( []. -. []. F. \/ []. -. -. []. F. ) ) $= ( wfal cbox wn wo wtru cdiam df-diam df-fal monbirule notbii bitr4i kurbis sylbir notnotr monrule jaoi con3i ) AZBZCZBZTCZBZDSBZUAUDUCUAEZFZBUDUFTUFUECZBZCTUEGSUHRUGHIJKIUESLMUBSSNOPQ $.
 
 $( Day 15.  Lemma for ~ equiva . $)
-equivalem $p |- ( []. ( ph <-> -. []. ph ) -> []. ( ph <-> -. []. F. ) ) $= ? $.
+equivalem $p |- ( []. ( ph <-> -. []. ph ) -> []. ( ph <-> -. []. F. ) ) $= ( cbox wn wb wfal axk4 wi biimp monrule ax-distrb syl biimpr impbid cdiam bfbdp notnotb monbirule notbii df-diam bitr4i bitr4di notbid bitr monimpconj mpdan ) AABZCZDZBZUGEBZCZDZBZAUKDZBUIUIBUMUHFUIULUIUFUJUIUFUGBZUJUIUFUOUIAUGGZBUFUOGUHUPAUGHIAUGJKUIUGAGZBUOUFGUHUQAUGLIUGAJKMUJACZNZBUOUROUGUSUGURCZBZCUSUFVAAUTAPQRURSTQTUAUBIKUHULUNAUGUKUCUDUE $.
+
 $( Day 16.  It is provable that a statement ` ph ` is equivalent to the
    assertion that ` ph ` is unprovable if and only if it is provable that
    ` ph ` is equivalent to PA being consistent. $)
 equiva $p |- ( []. ( ph <-> -. []. ph ) <-> []. ( ph <-> -. []. F. ) ) $= ? $.
+
 $( Day 17.  A corollary from ~ equiva .  It is provable that ` ph ` is
    equivalent to the assertion that ` ph ` is disprovable if and only if it
    is provable that ` ph ` is equivalent to PA being inconsistent. $)
 equivacor $p |- ( []. ( ph <-> []. -. ph ) <-> []. ( ph <-> []. F. ) ) $= ? $.
+
 $( Day 18.  It is probable that ` ph ` is equivalent to the assertion that
    ` ph ` is provable if and only if it is provable that ` ph ` is equivalent
    to anything that is provable. $)
 equivb $p |- ( []. ( ph <-> []. ph ) <-> []. ( ph <-> T. ) ) $= ? $.
+
 $( Day 19. It is provable that ` ph ` is equivalent to the assertion that
    ` ph ` is consistent with PA if and only if it is provable that ` ph ` is
    equivalent to anything that is disprovable. $)

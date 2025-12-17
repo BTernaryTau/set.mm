@@ -152,7 +152,7 @@ equivalem $p |- ( []. ( ph <-> -. []. ph ) -> []. ( ph <-> -. []. F. ) ) $= ( cb
 $( Day 16.  It is provable that a statement ` ph ` is equivalent to the
    assertion that ` ph ` is unprovable if and only if it is provable that
    ` ph ` is equivalent to PA being consistent. $)
-equiva $p |- ( []. ( ph <-> -. []. ph ) <-> []. ( ph <-> -. []. F. ) ) $= ? $.
+equiva $p |- ( []. ( ph <-> -. []. ph ) <-> []. ( ph <-> -. []. F. ) ) $= ( cbox wn wb wfal equivalem wi axk4 wa simpl a1i biimp impcom monrule ax-distrb syl godel2 nsyli syl5 pm5.1im syl6c expd con1 biimpr syl11 imp falim 2thd con2bid ex pm2.61d1 mpcom impbii ) AABZCZDZBZAEZBZCZDZBZAFVAUPGZBZVBUQVBVBBVDVAHVBVCVBAVCVBAVAUPVBAVAIZAUOUPVEAGVBAVAJKVEUTVBUOVAAUTAUTLZMVBUNUTBZUTVBAUTGZBUNVGGVAVHVFNAUTOPQRSAUOTUAUBACZVAUPVIVAIZUNAVJUNVIVJUSUNVIVAUSUTAGVIUSVAUSAUCAUTUDUEUFURAAUGNPVIVAJUHUIUJUKNPVAUPOULUM $.
 
 $( Day 17.  A corollary from ~ equiva .  It is provable that ` ph ` is
    equivalent to the assertion that ` ph ` is disprovable if and only if it

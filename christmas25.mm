@@ -157,7 +157,7 @@ equiva $p |- ( []. ( ph <-> -. []. ph ) <-> []. ( ph <-> -. []. F. ) ) $= ( cbox
 $( Day 17.  A corollary from ~ equiva .  It is provable that ` ph ` is
    equivalent to the assertion that ` ph ` is disprovable if and only if it
    is provable that ` ph ` is equivalent to PA being inconsistent. $)
-equivacor $p |- ( []. ( ph <-> []. -. ph ) <-> []. ( ph <-> []. F. ) ) $= ? $.
+equivacor $p |- ( []. ( ph <-> []. -. ph ) <-> []. ( ph <-> []. F. ) ) $= ( wn cbox wb wfal equiva notbi monbirule 3bitr4i ) ABZJCZBDZCJECZBDZCAKDZCAMDZCJFOLAKGHPNAMGHI $.
 
 $( Day 18.  It is probable that ` ph ` is equivalent to the assertion that
    ` ph ` is provable if and only if it is provable that ` ph ` is equivalent

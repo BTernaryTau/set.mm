@@ -162,7 +162,7 @@ equivacor $p |- ( []. ( ph <-> []. -. ph ) <-> []. ( ph <-> []. F. ) ) $= ( wn c
 $( Day 18.  It is probable that ` ph ` is equivalent to the assertion that
    ` ph ` is provable if and only if it is provable that ` ph ` is equivalent
    to anything that is provable. $)
-equivb $p |- ( []. ( ph <-> []. ph ) <-> []. ( ph <-> T. ) ) $= ? $.
+equivb $p |- ( []. ( ph <-> []. ph ) <-> []. ( ph <-> T. ) ) $= ( cbox wb wtru wi biimpr monrule ax-gl syl tbtru monbirule sylib axk4 ax-1 wa dfbi2 biimpri monimpconj syl2anc sylbir impbii ) AABZCZBZADCZBZUDUBUFUDUBAEZBZUBUCUGAUBFGAHIAUEAJKZLUFUBUDUIUBAUBEZBZUHUDUBUBBUKAMUBUJUBANGIAUGAUBNGUJUGUCUCUJUGOAUBPQRSTUA $.
 
 $( Day 19. It is provable that ` ph ` is equivalent to the assertion that
    ` ph ` is consistent with PA if and only if it is provable that ` ph ` is

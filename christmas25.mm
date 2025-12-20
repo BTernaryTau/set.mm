@@ -167,7 +167,7 @@ equivb $p |- ( []. ( ph <-> []. ph ) <-> []. ( ph <-> T. ) ) $= ( cbox wb wtru w
 $( Day 19. It is provable that ` ph ` is equivalent to the assertion that
    ` ph ` is consistent with PA if and only if it is provable that ` ph ` is
    equivalent to anything that is disprovable. $)
-equivbcor $p |- ( []. ( ph <-> <>. ph ) <-> []. ( ph <-> F. ) ) $= ? $.
+equivbcor $p |- ( []. ( ph <-> <>. ph ) <-> []. ( ph <-> F. ) ) $= ( wn cbox wb wtru cdiam wfal equivb df-diam bibi2i con2bi bicom 3bitri monbirule nbfal tbtru bitr3i 3bitr4i ) ABZSCZDZCSEDZCAAFZDZCAGDZCSHUDUAUDATBZDTSDUAUCUFAAIJATKTSLMNUEUBUESUBAOSPQNR $.
 
 $( Day 20.  Formula ` []. ph -> ph ` is called the reflection principle for
    ` ph ` , in particular, ~ ax-gl means that ` ph ` is provable if the

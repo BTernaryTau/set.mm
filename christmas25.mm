@@ -188,7 +188,7 @@ df-dbox $a |- ( [.] ph <-> ( []. ph /\ ph ) ) $.
 
 $( The following five results prove some properties of the dotted box. One can use ~ axk4 but not ~ ax-gl in the proofs. $)
 $( Day 21. $)
-dbbeqb $p |- ( [.] []. ph <-> []. ph ) $= ? $.
+dbbeqb $p |- ( [.] []. ph <-> []. ph ) $= ( cbox cdbox wa df-dbox simpr axk4 ancri impbii bitri ) ABZCKBZKDZKKEMKLKFKLAGHIJ $.
 $( Day 22. $)
 dbbeqbdb $p |- ( [.] []. ph <-> []. [.] ph ) $= ? $.
 $( Day 23. $)

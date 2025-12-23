@@ -187,10 +187,13 @@ $( The definition of the "dotted box" ` [.] ` in terms of ` []. ` .  This
 df-dbox $a |- ( [.] ph <-> ( []. ph /\ ph ) ) $.
 
 $( The following five results prove some properties of the dotted box. One can use ~ axk4 but not ~ ax-gl in the proofs. $)
+
 $( Day 21. $)
 dbbeqb $p |- ( [.] []. ph <-> []. ph ) $= ( cbox cdbox wa df-dbox simpr axk4 ancri impbii bitri ) ABZCKBZKDZKKEMKLKFKLAGHIJ $.
+
 $( Day 22. $)
-dbbeqbdb $p |- ( [.] []. ph <-> []. [.] ph ) $= ? $.
+dbbeqbdb $p |- ( [.] []. ph <-> []. [.] ph ) $= ( cbox wa cdbox distrconj df-dbox monbirule 3bitr4ri ) ABZACZBIBICADZBIDIAEKJAFGIFH $.
+
 $( Day 23. $)
 dbeqdbdb $p |- ( [.] ph <-> [.] [.] ph ) $= ? $.
 

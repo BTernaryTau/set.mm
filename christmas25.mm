@@ -200,7 +200,7 @@ dbeqdbdb $p |- ( [.] ph <-> [.] [.] ph ) $= ( cdbox cbox df-dbox simplbi dbbeqb 
 ${
   dbimp.1 $e |- ( [.] ph -> ps ) $.
   $( Day 24a. $)
-  dbimp1 $p |- ( []. ph -> []. ps ) $= ? $.
+  dbimp1 $p |- ( []. ph -> []. ps ) $= ( cbox axk4 wa cdbox df-dbox sylbir monimpconj mpancom ) ADZDLBDAELABLAFAGBAHCIJK $.
   $( Day 24b. $)
   dbimp2 $p |- ( [.] ph -> [.] ps ) $= ? $.
 $}

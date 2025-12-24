@@ -202,7 +202,7 @@ ${
   $( Day 24a. $)
   dbimp1 $p |- ( []. ph -> []. ps ) $= ( cbox axk4 wa cdbox df-dbox sylbir monimpconj mpancom ) ADZDLBDAELABLAFAGBAHCIJK $.
   $( Day 24b. $)
-  dbimp2 $p |- ( [.] ph -> [.] ps ) $= ? $.
+  dbimp2 $p |- ( [.] ph -> [.] ps ) $= ( cdbox cbox df-dbox simplbi dbimp1 syl sylanbrc ) ADZBEZBBDKAEZLKMAAFGABCHICBFJ $.
 $}
 
 $( Day 25a.  Lemma for ~ puzzle . $)

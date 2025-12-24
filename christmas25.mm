@@ -195,7 +195,7 @@ $( Day 22. $)
 dbbeqbdb $p |- ( [.] []. ph <-> []. [.] ph ) $= ( cbox wa cdbox distrconj df-dbox monbirule 3bitr4ri ) ABZACZBIBICADZBIDIAEKJAFGIFH $.
 
 $( Day 23. $)
-dbeqdbdb $p |- ( [.] ph <-> [.] [.] ph ) $= ? $.
+dbeqdbdb $p |- ( [.] ph <-> [.] [.] ph ) $= ( cdbox cbox df-dbox simplbi dbbeqb sylibr dbbeqbdb sylib wa biimpri mpancom simprbi impbii ) ABZOBZOCZOPOACZBZQORSORAADEAFGAHIPQOJODZKLPQOTMN $.
 
 ${
   dbimp.1 $e |- ( [.] ph -> ps ) $.
